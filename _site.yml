@@ -8,6 +8,6 @@ navbar:
     - icon: fa-envelope fa-lg
       href: mailto:rwilliams7653@gmail.com
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: http://github.com/rwilliams38/
 output:
   html_document
